@@ -12,3 +12,13 @@ A simple Telegram bot that translates English text into Kannada using Python.
 Images Of Bot:
 
 <img width="1589" height="921" alt="Screenshot 2026-04-02 193916" src="https://github.com/user-attachments/assets/23d7b70f-9933-41ea-8375-9e05e920a1ea" />
+
+## 🎥 Demo Video
+
+Watch the project in action:
+
+[![Watch the demo](https://img.youtube.com/vi/Wf9ELHH2Mj0/0.jpg)](https://youtu.be/Wf9ELHH2Mj0)
+
+### 🚀 Features
+- English To Kannada Translation
+- User-friendly interface
