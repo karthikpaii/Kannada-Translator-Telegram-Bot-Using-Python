@@ -7,7 +7,7 @@ A simple Telegram bot that translates English text into Kannada using Python.
 2. Easy to use via Telegram chat
 3. Fast and lightweight
 
-* I deployed it on a server but sometime It May Not Work [90% of time it Works] But if You want to test it Contact Me using My Email Address available on My Bio.
+* It is not deployed on a server But if You want to test it Contact Me using My Email Address available on My Bio.
 
 Images Of Bot:
 
